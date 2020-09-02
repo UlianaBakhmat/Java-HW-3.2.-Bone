@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void  Main(String[] args) {
                 int balance = 10000; // баланс до пополнения счета в копейках
                 int payment = 110000; // сумма пополнения счета в копейках
                 boolean pays = (payment > 100000); // проверка условия, явлется ли сумма пополнения счета больше 1000 рублей(в копейках)?
